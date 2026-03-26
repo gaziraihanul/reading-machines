@@ -23,12 +23,13 @@ The project engages with Ruha Benjamin’s critique of algorithmic systems repro
 
 #
 Works Cited
-Benjamin, Ruha. “The New Artificial Intelligentsia.” Los Angeles Review of Books, 2024, lareviewofbooks.org/article/the-new-artificial-intelligentsia/.
 
-Haas, Angela M. “Wampum as Hypertext: An American Indian Intellectual Tradition of Multimedia Theory and Practice.” Studies in American Indian Literatures, vol. 19, no. 4, 2007, pp. 77–100.
+- Benjamin, Ruha. “The New Artificial Intelligentsia.” Los Angeles Review of Books, 2024, lareviewofbooks.org/article/the-new-artificial-intelligentsia/.
 
-Hayles, N. Katherine. “Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis.” Transmedia Frictions, edited by Marsha Kinder and Tara McPherson, U of California P, 2014, pp. 20–33.
+- Haas, Angela M. “Wampum as Hypertext: An American Indian Intellectual Tradition of Multimedia Theory and Practice.” Studies in American Indian Literatures, vol. 19, no. 4, 2007, pp. 77–100.
 
-Mohamed, Shakir, et al. “Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence.” Philosophy & Technology, vol. 33, 2020, pp. 659–684.
+- Hayles, N. Katherine. “Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis.” Transmedia Frictions, edited by Marsha Kinder and Tara McPherson, U of California P, 2014, pp. 20–33.
+
+- Mohamed, Shakir, et al. “Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence.” Philosophy & Technology, vol. 33, 2020, pp. 659–684.
 
 Russell, Legacy. Glitch Feminism: A Manifesto. Verso, 2020.
