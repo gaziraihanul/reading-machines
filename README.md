@@ -32,4 +32,4 @@ Works Cited
 
 - Mohamed, Shakir, et al. “Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence.” Philosophy & Technology, vol. 33, 2020, pp. 659–684.
 
-Russell, Legacy. Glitch Feminism: A Manifesto. Verso, 2020.
+- Russell, Legacy. Glitch Feminism: A Manifesto. Verso, 2020.
